@@ -1,0 +1,16 @@
+2
+
+Title: Chess Queens
+Description: Find the total number of unique placements of n queens on an nxn chess board.
+Reason for Removal: N/A
+Tags: chess, queen, combinatorics, discrete
+Variations: use rectangles
+Resources: search n-queens problem
+
+*removed*
+Title: Number of non-attacking placements of chess queens
+Description: Find the total number of unique placements of n queens on an nxn chess board.
+Reason for Removal: Stupid
+Tags: chess, queen, combinatorics, discrete
+Variations: none
+Resources: none

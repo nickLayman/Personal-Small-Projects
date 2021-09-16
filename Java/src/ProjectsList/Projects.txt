@@ -1,0 +1,187 @@
+*removed*
+Title: Number of non-attacking placements of chess queens
+Description: Find the total number of unique placements of n queens on an nxn chess board.
+Reason for Removal: Stupid
+Tags: chess, queen, combinatorics, discrete
+Variations: n
+Resources: none
+
+
+
+Further previous rook polynomials work
+
+-higher dimensions
+
+-special types of boards
+
+
+
+Chess related
+
+-only rooks, knights, Queens, bishops, or combos (8 Queens problem?)
+
+-# of non attacking positions
+
+-maximum # on board in non attacking positions
+
+-higher dimensions
+
+-different board sizes (bigger)
+
+-different board sizes (not square)
+
+-with some squares missing (just black tiles, missing the corners, the center square, etc)
+
+-impossible chess board positions. 
+
+-amazoms game numberphile 
+
+
+
+
+
+Card games
+
+-set
+
+-poker
+
+-blackjack
+
+-solitaire
+
+
+
+
+
+Tic tac toe variations
+
+-just X's
+
+-bigger board
+
+-more dimensions
+
+-first to 3 in a row loses 
+
+-multiple boards at once
+
+
+
+
+
+Graph stuff
+
+-prime labelings (connect coprime numbers)
+
+-maximal prime labelings (connect all coprime numbers and does that graph contain certain graphs like friendship graphs. How many? Ramsay theory?)
+
+-composite labelings (connect numbers that share a factor)
+
+-factor labelings (connect numbers to all their factors)
+
+-stable relationship graphs (infinite series)
+
+-optimal strategy in money game (numberphile money game)
+
+
+
+
+
+Sudoku-ish
+
+-Sudoku
+
+-Latin squares
+
+-numbrix
+
+-nonomino
+
+-# of minimum hints 
+
+-# of answers with too few hints for a unique one
+
+-different sizes
+
+-different dimensions
+
+-wiki sudoku variations
+
+
+
+
+
+Board game stuff
+
+-monopoly
+
+-chess
+
+-checkers
+
+
+
+
+
+Improve on fair division stuff (IESC p. 95)
+
+
+
+
+
+Circle/Sphere packing
+
+
+
+
+
+Taxicab numbers
+
+
+
+
+
+Grafting numbers
+
+-different bases
+
+-different roots
+
+-different constants
+
+
+
+
+
+Tilings
+
+-more dimensions
+
+-tiles with more than one distinct part
+
+
+
+
+
+Centrifuge balancing problem (also zeros of complex polynomials)
+
+-higher dimensions
+
+-not a circle (or not rotating about center)
+
+-if partially filled tubes can be placed
+
+-noninteger holes?
+
+
+
+
+
+No three points in a line
+
+
+
+
+
+How many "overlapping" circle configurations for n circles. Numberphile video
