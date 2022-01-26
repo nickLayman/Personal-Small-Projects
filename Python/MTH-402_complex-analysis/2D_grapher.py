@@ -7,15 +7,13 @@ window_width = 2.5
 window_height = 2.5
 pixels_width = 512
 pixels_height = 512
-row_width = 1
-col_width = 1
+row_width = 3
+col_width = 3
 show_axes = False
 
 
 def f(z):
-    if abs(z) > 1:
-        return 0
-    return z
+    return cmath.cos(z)
 
 
 def show(image):
